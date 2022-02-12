@@ -1,2 +1,2 @@
-# Semana1
+# Katas Innovaccion
 Katas de la primer semana de Launch X
