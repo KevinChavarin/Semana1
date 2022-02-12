@@ -1,2 +1,2 @@
 # Semana1
-Primer semana de Launch X
+Katas de la primer semana de Launch X
